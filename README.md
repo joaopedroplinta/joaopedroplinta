@@ -4,9 +4,12 @@
   <p align="center">Sou apaixonado pela tecnologia, atualmente estou bacharelando em Ciência da Computação.</p>
 </div>
 
-![João Pedro Plinta GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedroplinta&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroplinta&layout=compact)](https://github.com/joaopedroplinta/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/joaopedroplinta">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=joaopedroplinta&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroplinta&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 
