@@ -36,4 +36,6 @@
   
 </div>
 
-Sou apaixonado pela tecnologia, atualmente estou bacharelando em Ciência da Computação.
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+</div
