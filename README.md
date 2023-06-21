@@ -1,7 +1,7 @@
 <div>
-  <h1 align="center">Salve! Eu sou o <a href="https://www.linkedin.com/in/joao-pedro-plinta/"><i>João Pedro Plinta</i></a> 😃️</h1>
-  <p align="center">Já segue aí e vem codar comigo, sua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
-  <p align="center">Sou apaixonado pela tecnologia, atualmente estou bacharelando em Ciência da Computação.</p>
+  <h1 align="center">Wassup homie! I'm  <a href="https://www.linkedin.com/in/joao-pedro-plinta/"><i>João Pedro Plinta</i></a> 😃️</h1>
+  <p align="center">Already follow and come code with me, your contribution will be very welcome, thanks! 😉️</h2>
+  <p align="center">I am passionate about technology, I am currently studying for a bachelor's degree in Computer Science.</p>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <h1 align="center">Tecnologias que eu uso no meu dia</h1>
+  <h1 align="center">Technologies I use in my day</h1>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +24,7 @@
 </div><br>
 
 <div align="center">
-  <h1>Minhas redes sociais</h1>
+  <h1>My social media</h1>
   <a href="https://www.instagram.com/pinguim_joao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-pedro-plinta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/pinguim_joao2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -37,5 +37,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Made with JavaScript.</p>
 </div
