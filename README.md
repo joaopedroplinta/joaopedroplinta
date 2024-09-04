@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Wassup homie! I'm  <a href="https://www.linkedin.com/in/joao-pedro-plinta/"><i>João Pedro Plinta</i></a> 😃️</h1>
+  <h1 align="center">Hey there! I'm  <a href="https://www.linkedin.com/in/joao-pedro-plinta/"><i>João Pedro Plinta</i></a> 😃️</h1>
   <p align="center">Already follow and come code with me, your contribution will be very welcome, thanks! 😉️</h2>
   <p align="center">I am passionate about technology, I am currently studying for a bachelor's degree in Computer Science.</p>
 </div>
@@ -12,12 +12,25 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <h1 align="center">Technologies I use in my day</h1>
+  <h1 align="center">Technologies & Tools</h1>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,docker,java,mysql,nodejs,py,react,ts" />
   </a>
 </p>
+</div><br>
+
+<div align="center" valign="top"><br>
+  <h1 align="center">📂 Featured Projects</h1>
+  <p align="center">
+
+### [Digital Dash](https://github.com/joaopedroplinta/DigitalDash)
+**Establish Digital Dash as a leading platform in the e-commerce market, providing exceptional, diverse, and convenient online shopping experiences for consumers, while driving sustainable business growth and fostering technological innovation.**
+  - **Technologies Used:** HTML, CSS, JavaScript, PHP and MYSQL
+
+### [Nlw-Java](https://github.com/joaopedroplinta/nlw-java)
+**Server for a planner, developed in Java.**
+  </p>
 </div><br>
 
 <div align="center">
@@ -27,7 +40,7 @@
 </div>
 
 <div align="center">
-  
+
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
