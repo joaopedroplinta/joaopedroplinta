@@ -30,7 +30,7 @@
 ### [Nlw-Java](https://github.com/joaopedroplinta/nlw-java)
 **Server for a planner, developed in Java.**
 
-### [Memory Allocation in C++](https://github.com/joaopedroplinta/nlw-expert-notes)
+### [Memory Allocation in C++](https://github.com/joaopedroplinta/memory_allocation)
 **This C++ program allocates registers in memory and measures execution time, resource usage, and memory addresses. The program was developed to investigate register allocation behavior and its impacts in terms of execution time, memory usage and CPU performance.**
 
 ### [Distributed Election Algorithm](https://github.com/joaopedroplinta/algoritimo_eleicao)
