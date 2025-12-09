@@ -12,7 +12,7 @@ I'm passionate about technology and always eager to learn new things. Currently 
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -24,7 +24,10 @@ I'm passionate about technology and always eager to learn new things. Currently 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedroplinta&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 
+
 ---
+
+-->
 
 ## 🛠️ Technologies & Tools
 
