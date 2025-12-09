@@ -16,8 +16,12 @@ I'm passionate about technology and always eager to learn new things. Currently 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedroplinta&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroplinta&theme=tokyonight&hide_border=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedroplinta&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroplinta&theme=tokyonight&hide_border=false&layout=compact&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedroplinta&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -40,33 +44,11 @@ I'm passionate about technology and always eager to learn new things. Currently 
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Portfolio
 
-### 🎨 [Personal Portfolio](https://github.com/joaopedroplinta/portfolio_react)
-Personal portfolio website built with React, showcasing my projects and skills as a front-end developer.
+Check out my [**Personal Portfolio**](https://github.com/joaopedroplinta/portfolio_react) built with React, where you can find a complete showcase of my projects and skills as a developer.
 
 **Tech Stack:** `React` `JavaScript` `CSS`
-
----
-
-### 📅 [NLW Java - Trip Planner](https://github.com/joaopedroplinta/nlw-java)
-Backend server for a trip planning application developed during Rocketseat's Next Level Week event.
-
-**Tech Stack:** `Java` `Spring Boot` `REST API`
-
----
-
-### 💾 [Memory Allocation Analyzer](https://github.com/joaopedroplinta/memory_allocation)
-C++ program that analyzes memory allocation behavior, measuring execution time, resource usage, and memory addresses to investigate performance impacts.
-
-**Tech Stack:** `C++` `Performance Analysis` `Systems Programming`
-
----
-
-### 🗳️ [Distributed Election Algorithm](https://github.com/joaopedroplinta/algoritimo_eleicao)
-Implementation of a distributed election algorithm simulating a system where processes elect a coordinator and monitor activity.
-
-**Tech Stack:** `C++` `Distributed Systems` `Algorithms`
 
 ---
 
@@ -85,8 +67,6 @@ Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/joao-pedro
 ---
 
 <div align="center">
-  
-![Snake animation](https://github.com/joaopedroplinta/joaopedroplinta/blob/output/github-contribution-grid-snake.svg)
 
 <sub>Made with ❤️ and lots of ☕</sub>
 
