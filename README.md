@@ -63,11 +63,3 @@ Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/joao-pedro
 **⭐ Don't forget to star repositories you find interesting!**
 
 </div>
-
----
-
-<div align="center">
-
-<sub>Made with ❤️ and lots of ☕</sub>
-
-</div>
