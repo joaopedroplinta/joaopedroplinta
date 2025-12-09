@@ -33,7 +33,7 @@ I'm passionate about technology and always eager to learn new things. Currently 
 
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,php,c,cpp,java,react,react native,tailwindcss,flask,pytorch,tensorflow,postgresql,mysql,git,github,vscode,figma,docker,linux" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,php,c,cpp,java,react,tailwindcss,flask,django,pytorch,tensorflow,postgresql,mysql,git,github,vscode,figma,docker,linux" />
 
 </div>
 
