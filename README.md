@@ -41,7 +41,7 @@ I'm passionate about technology and always eager to learn new things. Currently 
 
 ## 💼 Portfolio
 
-Check out my [**Personal Portfolio**](https://github.com/joaopedroplinta/portfolio_react) built with React, where you can find a complete showcase of my projects and skills as a developer.
+Check out my [**Personal Portfolio**](https://github.com/joaopedroplinta/meu_portfolio) built with React, where you can find a complete showcase of my projects and skills as a developer.
 
 **Tech Stack:** `React` `JavaScript` `CSS`
 
