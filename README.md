@@ -187,8 +187,6 @@ PING joao.dev (0.0.0.0): 56 bytes de dados
 
 <br/>
 
-![Visualizações do Perfil](https://komarev.com/ghpvc/?username=joaopedroplinta&color=58a6ff&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
-
 </div>
 
 <br/>
