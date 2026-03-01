@@ -42,9 +42,9 @@ $ cat sobre.json
   "formação": "Bacharelado em Ciência da Computação",
   "status": "aberto_a_oportunidades: true",
   "interesses": [
-    "Arquitetura Limpa",
+    "Desenvolvimento de software",
     "Machine Learning",
-    "Open Source",
+    "Cibersegurança",
     "Construir coisas que importam"
   ],
   "aprendendo_atualmente": "Sempre algo novo",
