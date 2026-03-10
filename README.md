@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/joao-pedro-plinta/)
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=0d1117)](https://www.instagram.com/pinguim_joao/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)](https://github.com/joaopedroplinta/meu_portfolio)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)](https://joaoplinta-portfolio.vercel.app/)
 
 </div>
 
