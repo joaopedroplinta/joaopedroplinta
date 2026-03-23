@@ -31,7 +31,7 @@
 ### `> whoami`
 
 ```bash
-$ cat sobre.json
+$ cat about.json
 ```
 
 ```json
