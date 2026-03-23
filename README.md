@@ -60,7 +60,7 @@ $ cat sobre.json
 
 <br/>
 
-### `> ls ./habilidades`
+### `> ls ./stack`
 
 <div align="center">
 
