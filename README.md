@@ -128,7 +128,7 @@ $ cat sobre.json
 
 <br/>
 
-### `> cat estatisticas.md`
+### `> cat statistic.md`
 
 <div align="center">
 
@@ -155,7 +155,7 @@ $ cat sobre.json
 
 <br/>
 
-### `> ls ./projetos --destaque`
+### `> ls ./projects --highlight`
 
 <div align="center">
 
