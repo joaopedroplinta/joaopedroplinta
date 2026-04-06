@@ -161,6 +161,10 @@ $ cat about.json
 <div align="center">
 
 [![Caixeiro Viajante](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=caixeiro-viajante&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/caixeiro-viajante)
+[![Word Frequency Count](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=word-frequency-count&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/word-frequency-count)
+[![Meu Portfólio](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=meu_portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/meu_portfolio)
+
+</div>
 
 </div>
 
