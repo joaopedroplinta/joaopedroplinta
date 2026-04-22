@@ -189,6 +189,7 @@ PING joao.dev (127.0.0.1): 56 bytes de dados
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Vamos%20nos%20conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-plinta/)
+[![Email](https://img.shields.io/badge/Me%20manda%20um%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrohenriqueplinta@gmail.com)
 
 <br/>
 
