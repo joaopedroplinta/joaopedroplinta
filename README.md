@@ -179,7 +179,7 @@ $ cat about.json
 <div align="center">
 
 ```
-PING joao.dev (127.0.0.1): 56 bytes de dados
+PING joaoplintaportfolio.dev (216.198.79.1): 56(84) bytes de data.
 64 bytes: seq=0 ttl=64 tempo=instante ✓
 ```
 
