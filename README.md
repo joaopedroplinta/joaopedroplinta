@@ -84,6 +84,7 @@ $ cat about.json
 **🎨 Frontend**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
 
 **🔧 Backend**
@@ -92,6 +93,7 @@ $ cat about.json
 ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Inertia](https://img.shields.io/badge/Inertia.js-0d1117?style=flat-square&logo=inertia&logoColor=9553E9)
 
 </td>
 <td align="center" width="200">
