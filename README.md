@@ -90,6 +90,7 @@ $ cat about.json
 **🔧 Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=6DA55F)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
@@ -97,11 +98,6 @@ $ cat about.json
 
 </td>
 <td align="center" width="200">
-
-**🤖 IA / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=PyTorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=TensorFlow&logoColor=FF6F00)
 
 **🗄️ Banco de Dados**
 
@@ -115,6 +111,9 @@ $ cat about.json
 **⚙️ DevOps & Ferramentas**
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=0db7ed)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Prometheus](https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=E6522C)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05033)
 ![VSCode](https://img.shields.io/badge/VSCode-0d1117?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
