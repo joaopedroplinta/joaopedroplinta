@@ -48,14 +48,10 @@ $ cat about.json
     "Construir coisas que importam"
   ],
   "aprendendo_atualmente": "Sempre algo novo",
-  "curiosidade": "O bug sempre está no último lugar que você procura"
+  "curiosidade": "O bug sempre está no último lugar que você procura",
+  "porquê": "Gosto de pegar um problema real e ver funcionando de ponta a ponta — do modelo de dados até a tela que alguém usa sob pressão"
 }
 ```
-
-Gosto de pegar um problema real — não um exercício de sala de aula — e ver
-ele funcionando de ponta a ponta: do modelo de dados até a tela que alguém
-vai usar sob pressão, tipo avaliação ao vivo num hackathon. É esse
-"funcionar de verdade" que me prende no full stack.
 
 <br clear="right"/>
 
