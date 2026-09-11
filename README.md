@@ -43,13 +43,10 @@ $ cat about.json
   "status": "aberto_a_oportunidades: true",
   "interesses": [
     "Desenvolvimento de software",
-    "Machine Learning",
-    "Cibersegurança",
-    "Construir coisas que importam"
+    "Cibersegurança"
   ],
   "aprendendo_atualmente": "Sempre algo novo",
-  "curiosidade": "O bug sempre está no último lugar que você procura",
-  "porquê": "Gosto de pegar um problema real e ver funcionando de ponta a ponta — do modelo de dados até a tela que alguém usa sob pressão"
+  "curiosidade": "O bug sempre está no último lugar que você procura"
 }
 ```
 
