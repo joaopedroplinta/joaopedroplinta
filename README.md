@@ -52,6 +52,11 @@ $ cat about.json
 }
 ```
 
+Gosto de pegar um problema real — não um exercício de sala de aula — e ver
+ele funcionando de ponta a ponta: do modelo de dados até a tela que alguém
+vai usar sob pressão, tipo avaliação ao vivo num hackathon. É esse
+"funcionar de verdade" que me prende no full stack.
+
 <br clear="right"/>
 
 <br/>
@@ -104,6 +109,7 @@ $ cat about.json
 
 ![PostgreSQL](https://img.shields.io/badge/Postgres-0d1117?style=flat-square&logo=postgresql&logoColor=316192)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
 
 </td>
 <td align="center" width="200">
@@ -160,11 +166,9 @@ $ cat about.json
 
 <div align="center">
 
-[![Caixeiro Viajante](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=caixeiro-viajante&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/caixeiro-viajante)
-[![Word Frequency Count](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=word-frequency-count&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/word-frequency-count)
+[![Hackathon IFPR](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=hackathon-ifpr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/hackathon-ifpr)
+[![Orquestrador CLI](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=orquestrador-cli&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/orquestrador-cli)
 [![Meu Portfólio](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=meu_portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/meu_portfolio)
-
-</div>
 
 </div>
 
