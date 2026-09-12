@@ -26,6 +26,8 @@
 
 <br/>
 
+<img align="right" width="42%" src="https://raw.githubusercontent.com/joaopedroplinta/joaopedroplinta/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+
 ### `> cat about.json`
 
 ```json
@@ -43,6 +45,8 @@
   "curiosidade": "O bug sempre está no último lugar que você procura"
 }
 ```
+
+<br clear="right"/>
 
 <br/>
 
@@ -126,23 +130,22 @@ CLI que coordena Claude Code, Codex e Antigravity no mesmo projeto — roteament
 
 <br/>
 
-<img align="right" width="42%" src="https://raw.githubusercontent.com/joaopedroplinta/joaopedroplinta/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
 ### `> cat statistic.md`
-
-<img width="52%" src="https://github-readme-stats-ten-weld-86.vercel.app/api?username=joaopedroplinta&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br"/>
-
-<br/>
-
-<img width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedroplinta&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10&locale=pt_BR"/>
-
-<br clear="right"/>
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats-ten-weld-86.vercel.app/api?username=joaopedroplinta&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br"/>
 <img width="49%" src="https://github-readme-stats-ten-weld-86.vercel.app/api/top-langs/?username=joaopedroplinta&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&border_radius=10&locale=pt-br" alt="Linguagens mais usadas"/>
 
-<br/>
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedroplinta&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10&locale=pt_BR"/>
+
+</div>
+
+<div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaopedroplinta&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=10"/>
 
