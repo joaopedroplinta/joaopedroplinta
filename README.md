@@ -140,6 +140,10 @@ CLI que coordena Claude Code, Codex e Antigravity no mesmo projeto — roteament
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats-ten-weld-86.vercel.app/api/top-langs/?username=joaopedroplinta&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&border_radius=10&locale=pt-br" alt="Linguagens mais usadas"/>
+
+<br/>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaopedroplinta&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=10"/>
 
 </div>
