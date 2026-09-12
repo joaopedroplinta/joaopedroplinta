@@ -26,8 +26,6 @@
 
 <br/>
 
-<img align="right" width="42%" src="https://raw.githubusercontent.com/joaopedroplinta/joaopedroplinta/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
 ### `> cat about.json`
 
 ```json
@@ -45,8 +43,6 @@
   "curiosidade": "O bug sempre está no último lugar que você procura"
 }
 ```
-
-<br clear="right"/>
 
 <br/>
 
@@ -147,7 +143,7 @@ CLI que coordena Claude Code, Codex e Antigravity no mesmo projeto — roteament
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaopedroplinta&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=10"/>
+<img width="100%" src="https://raw.githubusercontent.com/joaopedroplinta/joaopedroplinta/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha nas contribuições do GitHub"/>
 
 </div>
 
