@@ -52,37 +52,16 @@
 
 ### `> ls ./projects --highlight`
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<div align="center">
 
 [![vnf-monitoring-benchmark](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=vnf-monitoring-benchmark&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/vnf-monitoring-benchmark)
-
-**TCC · Monitoramento de redes** — benchmark de três abordagens de coleta: eBPF, polling via `/proc` e coleta com exposição de métricas Prometheus. Avalia latência de resposta dos observadores, CPU e memória em um WAF simplificado em Python, com ambiente reproduzível em Docker e 360 execuções documentadas.
-
-`Python` `C` `eBPF/libbpf` `Prometheus` `Docker`
-
-</td>
-<td width="33%" valign="top">
-
 [![Hackathon IFPR](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=hackathon-ifpr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/hackathon-ifpr)
 
-Plataforma completa pra operar um hackathon — inscrições, equipes, submissões, avaliação e certificados. Construída sozinho para o 1º Hackathon IFPR Pinhais.
-
-`Laravel 12` `Inertia` `React 19` `PostgreSQL`
-
-</td>
-<td width="33%" valign="top">
+<br/>
 
 [![Orquestrador CLI](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=orquestrador-cli&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/orquestrador-cli)
 
-CLI que coordena Claude Code, Codex e Antigravity no mesmo projeto — roteamento entre agentes e worktrees Git isoladas pra rodar mudanças em paralelo.
-
-`Node.js` `TypeScript`
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
