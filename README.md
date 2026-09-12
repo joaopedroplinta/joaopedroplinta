@@ -136,10 +136,10 @@
 
 <div align="center">
 
-```
-PING joaoplinta-portfolio.vercel.app (216.198.79.1): 56(84) bytes de data.
-64 bytes: seq=0 ttl=64 tempo=instante ✓
-```
+<p align="center">
+<code>PING joaoplinta-portfolio.vercel.app (216.198.79.1): 56(84) bytes de data.</code><br/>
+<code>64 bytes: seq=0 ttl=64 tempo=instante ✓</code>
+</p>
 
 **Tem uma ideia legal? Quer colaborar? Só quer bater um papo sobre tecnologia?**
 **Estou a uma mensagem de distância.**
