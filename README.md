@@ -54,9 +54,12 @@
 
 <div align="center">
 
-<a href="https://github.com/joaopedroplinta/vnf-monitoring-benchmark"><img width="32%" src="https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=vnf-monitoring-benchmark&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br" alt="vnf-monitoring-benchmark"/></a>
-<a href="https://github.com/joaopedroplinta/hackathon-ifpr"><img width="32%" src="https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=hackathon-ifpr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br" alt="Hackathon IFPR"/></a>
-<a href="https://github.com/joaopedroplinta/orquestrador-cli"><img width="32%" src="https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=orquestrador-cli&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br" alt="Orquestrador CLI"/></a>
+[![vnf-monitoring-benchmark](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=vnf-monitoring-benchmark&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/vnf-monitoring-benchmark)
+[![Hackathon IFPR](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=hackathon-ifpr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/hackathon-ifpr)
+
+<br/>
+
+[![Orquestrador CLI](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=orquestrador-cli&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/orquestrador-cli)
 
 </div>
 
