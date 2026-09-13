@@ -33,13 +33,14 @@
   "nome": "João Pedro Plinta",
   "cargo": "Desenvolvedor Full Stack (foco em backend)",
   "localização": "Brasil 🇧🇷",
-  "formação": "Ciência da Computação — bacharelado, em andamento (TCC)",
-  "status": "aberto_a_oportunidades: true",
+  "formação": "Bacharelado em Ciência da Computação — concluindo o TCC",
+  "aberto_a_oportunidades": true,
   "interesses": [
     "Desenvolvimento de software",
     "Cibersegurança"
   ],
-  "agora": "TCC sobre monitoramento de uma VNF com eBPF, polling via /proc e exposição de métricas Prometheus + estudo pra certificação AWS",
+  "tcc": "Monitoramento de VNF com eBPF, polling via /proc e métricas Prometheus",
+  "estudando": "Certificação AWS",
   "curiosidade": "O bug sempre está no último lugar que você procura"
 }
 ```
@@ -75,27 +76,13 @@
 
 **No dia a dia**
 
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/Postgres-0d1117?style=for-the-badge&logo=postgresql&logoColor=316192)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=D24939)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05033)
+![PHP, Laravel, TypeScript, React, Next.js, PostgreSQL, Redis, Jenkins, GitHub Actions, Linux e Git](https://skillicons.dev/icons?i=php,laravel,ts,react,nextjs,postgres,redis,jenkins,githubactions,linux,git&theme=dark&perline=6)
 
 <br/>
 
 **Também uso**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=0db7ed)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![Python, C++, Docker, Node.js e Express](https://skillicons.dev/icons?i=python,cpp,docker,nodejs,express&theme=dark&perline=6)
 
 </div>
 
