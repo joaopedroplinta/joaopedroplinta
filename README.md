@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=const+joao+%3D+new+Desenvolvedor(%22Laravel%22%2C+%22React%22)%3B;joao.trabalha(%22Celepar%22)%3B;joao.pesquisa(%22monitoramento+de+VNF%22)%3B+%2F%2F+TCC;joao.compara(%22eBPF%22%2C+%22sysstat%22%2C+%22Prometheus%22)%3B;joao.estuda(%22certifica%C3%A7%C3%A3o+AWS%22)%3B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=const+joao+%3D+new+Desenvolvedor(%22Laravel%22%2C+%22React%22)%3B;joao.entrega(%22Plana%22%2C+%22OficinaFlow%22%2C+%22Hackathon+IFPR%22)%3B;joao.pesquisa(%22monitoramento+de+VNF%22)%3B+%2F%2F+TCC;joao.compara(%22eBPF%22%2C+%22sysstat%22%2C+%22Prometheus%22)%3B;joao.procura(%22a+pr%C3%B3xima+vaga%22)%3B)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/joao-pedro-plinta/)
 [![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=0d1117)](https://www.instagram.com/pinguim_joao/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)](https://joaoplinta-portfolio.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)](https://joaoplintaportfolio.dev/)
 
 </div>
 
@@ -37,10 +37,11 @@
   "aberto_a_oportunidades": true,
   "interesses": [
     "Desenvolvimento de software",
-    "Cibersegurança"
+    "Cibersegurança",
+    "Linux e eBPF"
   ],
   "tcc": "Monitoramento de VNF com eBPF, polling via /proc e métricas Prometheus",
-  "estudando": "Certificação AWS",
+  "em_producao": ["Plana", "OficinaFlow", "Hackathon IFPR"],
   "curiosidade": "O bug sempre está no último lugar que você procura"
 }
 ```
@@ -60,6 +61,7 @@
 
 <br/>
 
+[![OficinaFlow](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=oficinaflow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/oficinaflow)
 [![Orquestrador CLI](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=orquestrador-cli&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/orquestrador-cli)
 
 </div>
@@ -124,7 +126,7 @@
 <div align="center">
 
 <p align="center">
-<code>PING joaoplinta-portfolio.vercel.app (216.198.79.1): 56(84) bytes de data.</code><br/>
+<code>PING joaoplintaportfolio.dev (216.198.79.1): 56(84) bytes de data.</code><br/>
 <code>64 bytes: seq=0 ttl=64 tempo=instante ✓</code>
 </p>
 
