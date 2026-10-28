@@ -1,4 +1,4 @@
-<a href="https://joaoplintaportfolio.dev/"><img src="assets/banner.png" alt="Pinguim, João Pedro Plinta, desenvolvedor full stack. Do banco de dados ao kernel." width="100%"></a>
+<p align="center"><a href="https://joaoplintaportfolio.dev/"><img src="assets/pinguim.webp" alt="Pinguim, o mascote de João Pedro Plinta" width="170"></a></p>
 
 <p align="center"><img src="assets/terminal.svg" alt="Terminal com about.json, projetos em destaque, stack e ping para joaoplintaportfolio.dev" width="100%"></p>
 
