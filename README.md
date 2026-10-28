@@ -1,147 +1,67 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=João%20Pedro%20Plinta&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20·%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20(em%20andamento)&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=680&lines=const+joao+%3D+new+Desenvolvedor(%22Laravel%22%2C+%22React%22)%3B;joao.entrega(%22Plana%22%2C+%22OficinaFlow%22%2C+%22Hackathon+IFPR%22)%3B;joao.pesquisa(%22monitoramento+de+VNF%22)%3B+%2F%2F+TCC;joao.compara(%22eBPF%22%2C+%22sysstat%22%2C+%22Prometheus%22)%3B;joao.procura(%22a+pr%C3%B3xima+vaga%22)%3B)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/joao-pedro-plinta/)
-[![Instagram](https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e4405f&labelColor=0d1117)](https://www.instagram.com/pinguim_joao/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=0d1117)](https://joaoplintaportfolio.dev/)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-### `> cat about.json`
-
-```json
-{
-  "nome": "João Pedro Plinta",
-  "cargo": "Desenvolvedor Full Stack (foco em backend)",
-  "localização": "Brasil 🇧🇷",
-  "formação": "Bacharelado em Ciência da Computação — concluindo o TCC",
-  "aberto_a_oportunidades": true,
-  "interesses": [
-    "Desenvolvimento de software",
-    "Cibersegurança",
-    "Linux e eBPF"
-  ],
-  "tcc": "Monitoramento de VNF com eBPF, polling via /proc e métricas Prometheus",
-  "em_producao": ["Plana", "OficinaFlow", "Hackathon IFPR"],
-  "curiosidade": "O bug sempre está no último lugar que você procura"
-}
-```
-
-<br/>
-
----
-
-<br/>
-
-### `> ls ./projects --highlight`
-
-<div align="center">
-
-[![vnf-monitoring-benchmark](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=vnf-monitoring-benchmark&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/vnf-monitoring-benchmark)
-[![Hackathon IFPR](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=hackathon-ifpr&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/hackathon-ifpr)
-
-<br/>
-
-[![OficinaFlow](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=oficinaflow&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/oficinaflow)
-[![Orquestrador CLI](https://github-readme-stats-ten-weld-86.vercel.app/api/pin/?username=joaopedroplinta&repo=orquestrador-cli&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br)](https://github.com/joaopedroplinta/orquestrador-cli)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-### `> ls ./stack`
-
-<div align="center">
-
-**No dia a dia**
-
-![PHP, Laravel, TypeScript, React, Next.js, PostgreSQL, Redis, Jenkins, GitHub Actions, Linux e Git](https://skillicons.dev/icons?i=php,laravel,ts,react,nextjs,postgres,redis,jenkins,githubactions,linux,git&theme=dark&perline=6)
-
-<br/>
-
-**Também uso**
-
-![Python, C++, Docker, Node.js e Express](https://skillicons.dev/icons?i=python,cpp,docker,nodejs,express&theme=dark&perline=6)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-### `> cat statistic.md`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-ten-weld-86.vercel.app/api?username=joaopedroplinta&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&locale=pt-br"/>
-<img width="49%" src="https://github-readme-stats-ten-weld-86.vercel.app/api/top-langs/?username=joaopedroplinta&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&border_radius=10&locale=pt-br" alt="Linguagens mais usadas"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedroplinta&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=10&locale=pt_BR"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/joaopedroplinta/joaopedroplinta/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha nas contribuições do GitHub"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-### `> ping joao`
-
-<div align="center">
+<a href="https://joaoplintaportfolio.dev/"><img src="assets/banner.png" alt="Pinguim, João Pedro Plinta, desenvolvedor full stack. Do banco de dados ao kernel." width="100%"></a>
 
 <p align="center">
-<code>PING joaoplintaportfolio.dev (216.198.79.1): 56(84) bytes de data.</code><br/>
-<code>64 bytes: seq=0 ttl=64 tempo=instante ✓</code>
+  <b>Desenvolvedor full stack, do banco de dados ao kernel.</b><br>
+  Cursando Ciência da Computação no IFPR Pinhais. Construo sistemas que ficam no ar.
 </p>
 
-**Tem uma ideia legal? Quer colaborar? Só quer bater um papo sobre tecnologia?**
-**Estou a uma mensagem de distância.**
+<p align="center">
+  <a href="https://joaoplintaportfolio.dev/">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/joao-pedro-plinta/">LinkedIn</a> ·
+  <a href="mailto:joaopedrohenriqueplinta@gmail.com">E-mail</a> ·
+  <a href="https://www.instagram.com/pinguim_joao/">Instagram</a>
+</p>
 
-<br/>
+---
 
-[![LinkedIn](https://img.shields.io/badge/Vamos%20nos%20conectar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-plinta/)
-[![Email](https://img.shields.io/badge/Me%20manda%20um%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrohenriqueplinta@gmail.com)
+## Em produção
 
-<br/>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://joaoplintaportfolio.dev/projetos/plana"><img src="assets/plana.webp" alt="Painel do Plana"></a>
+      <h3>Plana</h3>
+      SaaS de agendamentos, multi-tenant. PIX, cartão e webhook processado em fila.<br>
+      <sub>Projeto individual, 68 commits</sub><br>
+      <a href="https://joaoplintaportfolio.dev/projetos/plana">Estudo de caso</a> · <a href="https://www.planaapp.com.br/">Produto</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://joaoplintaportfolio.dev/projetos/oficinaflow"><img src="assets/oficinaflow.webp" alt="Ordens do OficinaFlow"></a>
+      <h3>OficinaFlow</h3>
+      Ordens de serviço com orçamento por versão e estoque em livro-razão, reserva tudo ou nada.<br>
+      <sub>392 testes, 11 classes de concorrência em PostgreSQL</sub><br>
+      <a href="https://joaoplintaportfolio.dev/projetos/oficinaflow">Estudo de caso</a> · <a href="https://github.com/joaopedroplinta/oficinaflow">Código</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://joaoplintaportfolio.dev/projetos/hackathon-ifpr"><img src="assets/hackathon.webp" alt="Distribuição de jurados do Hackathon IFPR"></a>
+      <h3>Hackathon IFPR</h3>
+      Inscrições, equipes, jurados, resultado e certificados do 1º Hackathon do IFPR Pinhais.<br>
+      <sub>Autor único do código, 205 commits</sub><br>
+      <a href="https://joaoplintaportfolio.dev/projetos/hackathon-ifpr">Estudo de caso</a> · <a href="https://github.com/joaopedroplinta/hackathon-ifpr">Código</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://joaoplintaportfolio.dev/projetos/tcc-monitoramento"><img src="assets/tcc.webp" alt="Tempo de resposta por ferramenta de monitoramento"></a>
+      <h3>TCC: o custo de observar um sistema</h3>
+      Overhead de eBPF, Sysstat, Prometheus e Docker monitorando um WAF, em 480 execuções reprodutíveis.<br>
+      <sub>eBPF com menor tempo de resposta, de 13% a 15%</sub><br>
+      <a href="https://joaoplintaportfolio.dev/projetos/tcc-monitoramento">Estudo de caso</a> · <a href="https://github.com/joaopedroplinta/vnf-monitoring-benchmark">Código</a>
+    </td>
+  </tr>
+</table>
 
-</div>
+## Stack
 
-<br/>
+**No dia a dia:** PHP, Laravel, TypeScript, React, PostgreSQL, Redis, GitHub Actions, Linux.<br>
+**Também uso:** Python, C++, Java, Docker, Node.js.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+---
+
+```console
+$ ping joaoplintaportfolio.dev
+64 bytes from joaoplintaportfolio.dev: seq=0 ttl=64 tempo=instante ✓
+
+$ echo "Tem uma ideia? Quer colaborar? Só quer bater um papo sobre tecnologia?"
+Estou a uma mensagem de distância.
+```
