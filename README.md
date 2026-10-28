@@ -96,9 +96,9 @@
 
 **Infraestrutura e entrega**
 
-![Docker, Kubernetes, Linux, GitHub Actions, Jenkins, Prometheus, Vercel e Railway](https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,jenkins,prometheus,vercel,railway&theme=dark&perline=9)
+![Docker, Kubernetes, Linux, GitHub Actions, Jenkins, Prometheus e Vercel](https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,jenkins,prometheus,vercel&theme=dark&perline=9)
 
-<sub>E ainda Inertia.js, eBPF, Render e Git.</sub>
+<sub>E ainda Inertia.js, eBPF, Railway, Render e Git.</sub>
 
 </div>
 
