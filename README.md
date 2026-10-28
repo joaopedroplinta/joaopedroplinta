@@ -76,15 +76,29 @@
 
 <div align="center">
 
-**No dia a dia**
+**Interfaces**
 
-![PHP, Laravel, TypeScript, React, Next.js, PostgreSQL, Redis, Jenkins, GitHub Actions, Linux e Git](https://skillicons.dev/icons?i=php,laravel,ts,react,nextjs,postgres,redis,jenkins,githubactions,linux,git&theme=dark&perline=6)
+![TypeScript, React, Next.js e Tailwind CSS](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind&theme=dark&perline=9)
 
 <br/>
 
-**Também uso**
+**Aplicações e APIs**
 
-![Python, C++, Docker, Node.js e Express](https://skillicons.dev/icons?i=python,cpp,docker,nodejs,express&theme=dark&perline=6)
+![PHP, Laravel, Node.js, Express, Java, Spring, Python, FastAPI e C++](https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,spring,py,fastapi,cpp&theme=dark&perline=9)
+
+<br/>
+
+**Dados**
+
+![PostgreSQL, MySQL e Redis](https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark&perline=9)
+
+<br/>
+
+**Infraestrutura e entrega**
+
+![Docker, Kubernetes, Linux, GitHub Actions, Jenkins, Prometheus, Vercel e Railway](https://skillicons.dev/icons?i=docker,kubernetes,linux,githubactions,jenkins,prometheus,vercel,railway&theme=dark&perline=9)
+
+<sub>E ainda Inertia.js, eBPF, Render e Git.</sub>
 
 </div>
 
