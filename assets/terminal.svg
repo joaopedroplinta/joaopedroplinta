@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Terminal: whoami, ls projetos e ping joaoplintaportfolio.dev">
+<rect width="1000" height="300" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect width="1000" height="38" rx="14" fill="#161b22"/><rect y="24" width="1000" height="14" fill="#161b22"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f57"/><circle cx="44" cy="19" r="6" fill="#febc2e"/><circle cx="64" cy="19" r="6" fill="#28c840"/>
+<text x="500.0" y="24" text-anchor="middle" font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="13" fill="#8b949e">pinguim@joao: ~</text>
+<text x="28" y="76" font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="18" fill="#58a6ff" opacity="0">$ whoami<animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.01s" fill="freeze"/></text>
+<text x="28" y="114" font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="18" fill="#e6edf3" opacity="0">joao pedro plinta · full stack · pinhais, pr<animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.01s" fill="freeze"/></text>
+<text x="28" y="152" font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="18" fill="#58a6ff" opacity="0">$ ls projetos/<animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.01s" fill="freeze"/></text>
+<text x="28" y="190" font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="18" fill="#f4a23a" opacity="0">plana/  oficinaflow/  hackathon-ifpr/  tcc/  ebpf-scitec/<animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.01s" fill="freeze"/></text>
+<text x="28" y="228" font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="18" fill="#58a6ff" opacity="0">$ ping joaoplintaportfolio.dev<animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.01s" fill="freeze"/></text>
+<text x="28" y="266" font-family="JetBrains Mono,DejaVu Sans Mono,monospace" font-size="18" fill="#3fb950" opacity="0">64 bytes from joaoplintaportfolio.dev: seq=0 ttl=64 tempo=instante ✓<animate attributeName="opacity" from="0" to="1" begin="5.2s" dur="0.01s" fill="freeze"/></text>
+<rect x="28" y="286" width="11" height="22" fill="#e6edf3" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1s" begin="5.6s" repeatCount="indefinite"/></rect>
+</svg>
